@@ -26,6 +26,8 @@ dist-ssr
 # 👉 Node Modules
 node_modules/
 MatDash/node_modules/
+Backend/node_modules/
+
 
 # 👉 Build Outputs
 dist/
@@ -66,4 +68,5 @@ Thumbs.db
 *.sw?
 
 # 👉 OS Specific
+
 *.local
